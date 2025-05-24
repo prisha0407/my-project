@@ -1,0 +1,11 @@
+streamlit
+spacy
+scikit-learn
+joblib
+pandas
+numpy
+PyPDF2
+pytesseract
+Pillow
+python-docx
+openpyxl
